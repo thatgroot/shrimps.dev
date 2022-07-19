@@ -13,6 +13,7 @@ function PostPage() {
         ></textarea>
         <button className="flex justify-evenly items-center p-4 my-4 bg-black/90 text-gray-300  rounded-[1rem] w-[8rem]">
           <i className="fa fa-message"></i>
+          <span className="text-2xl">🛬</span>
           <span>send</span>
         </button>
       </form>

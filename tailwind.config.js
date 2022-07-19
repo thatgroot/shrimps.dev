@@ -7,7 +7,11 @@ module.exports = {
       lg: "976px",
       xl: "1024px",
     },
-
+    color: {
+      blue: "#1fb6ff",
+      yellow: "#ffc82c",
+      gray: "#8492a6",
+    },
     fontFamily: {
       sans: ["Raleway", "sans-serif"],
       serif: ["Merriweather", "serif"],
